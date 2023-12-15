@@ -1,0 +1,15 @@
+User
+# Dials
+# Connects
+# Conversations
+# Positive Conversations
+# Dials to Conversations
+# Conversations to Meetings
+Session Hours
+Hold Time
+Wrap Time
+List Name
+Cadence
+Touch
+Talk Time
+# Dials Per Hour (Dial Time)

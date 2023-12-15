@@ -1,0 +1,14 @@
+
+User
+Account Name
+Contact Name
+Call Disposition
+Title
+Phone Type
+Call Duration
+Product Type
+Date/Time
+Caller ID
+Call Comments
+CRM ID
+Dialed Number

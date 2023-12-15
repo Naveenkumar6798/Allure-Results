@@ -1,0 +1,5 @@
+User Name : standalone Onboarding QA TestGOKFU
+Company Name : standalone Onboarding QA TestYUUTT
+Email ID : duhiji@pelagius.net
+Selected CRM to integrate :standalone
+Selected Sales Enagement Platform to integrate :salesloft

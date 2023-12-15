@@ -1,0 +1,20 @@
+User
+Session Hours
+# Dials
+# Connects
+# Conversations
+# Positive Conversations
+# Meetings
+# Dials to Conversations
+Product Type
+# Connects to Meetings
+# Dials Per Hour (Dial Time)
+# Dials to Meetings
+# Followups
+Positive Conversations %
+Meetings %
+Hold Time
+Wrap Time
+Talk Time
+# Referrals
+# Bad Data

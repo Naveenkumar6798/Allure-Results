@@ -1,0 +1,11 @@
+
+User
+Account Name
+Contact Name
+Call Disposition
+Title
+Dialed Number
+Phone Type
+Call Duration
+Date/Time
+Product Type

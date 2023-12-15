@@ -1,0 +1,15 @@
+List Name
+User
+# Dials
+# Connects
+# Dials to Conversations
+# Meetings
+# Followups
+# Positive Conversations
+Conversations to Meetings %
+Dials to Conversations %
+Dials to Connects %
+Dials to Meetings %
+# Conversations
+# Referrals
+Dials to Positive Conversations %
